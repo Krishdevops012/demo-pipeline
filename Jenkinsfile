@@ -7,9 +7,9 @@
        echo "building......."
            }
           }
- stage('test') {
-   steps {
-      echo "testing ....."
+      stage('test') {
+        steps {
+          echo "testing ....."
           }
          }
    
